@@ -1,0 +1,47 @@
+# Copyright (C) 2015 RT Hide Posts Page Editor
+# This file is distributed under the same license as the RT Hide Posts Page Editor package.
+msgid ""
+msgstr ""
+"Project-Id-Version: RT Hide Posts Page Editor 0.9\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/rt-hide-posts-"
+"page-editor\n"
+"POT-Creation-Date: 2015-09-27 12:48:58+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-09-27 15:05+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.7.5\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: nl_NL\n"
+
+#: rt-hide-posts-page-editor.php:66
+msgid ""
+"This page is currently set as the <a href=\"%s\">posts page</a>. Because it "
+"will display your most recent posts, the content editor is hidden."
+msgstr ""
+"Deze pagina is op dit moment ingesteld als de <a href=\"%s\">berichtpagina</"
+"a>. Omdat de inhoud van deze pagina niet getoond wordt op de site, is de "
+"editor verborgen."
+
+#. Plugin Name of the plugin/theme
+msgid "RT Hide Posts Page Editor"
+msgstr "RT Hide Posts Page Editor"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.roytanck.com"
+msgstr "http://www.roytanck.com"
+
+#. Description of the plugin/theme
+msgid ""
+"Hides the content editor for the page that is set as the site's \"posts page"
+"\"."
+msgstr ""
+"Verbergt de inhoud-editor voor de pagina die als \"berichtpagina\" "
+"ingesteld is."
+
+#. Author of the plugin/theme
+msgid "Roy Tanck"
+msgstr "Roy Tanck"
